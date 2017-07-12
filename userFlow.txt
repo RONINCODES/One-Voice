@@ -37,5 +37,3 @@ Devon's Notes/Insight
    The survey is just a form, we should check if user submitted survey before logging out, if not
    we should have the user submit survey upon re-logging in
    - be careful of annoying the user.
-
-   
