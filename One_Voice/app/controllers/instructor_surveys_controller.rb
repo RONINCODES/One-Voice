@@ -1,0 +1,2 @@
+class InstructorSurveysController < ApplicationController
+end
